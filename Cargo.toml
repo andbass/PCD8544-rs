@@ -1,0 +1,10 @@
+[package]
+name = "pcd8544"
+version = "0.1.0"
+authors = ["Andrew Bass <andybass009@gmail.com>"]
+
+[dependencies]
+wiringpi = "*"
+
+[dependencies.pcd8544_sys]
+path = "./pcd8544-sys"

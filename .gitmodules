@@ -1,0 +1,6 @@
+[submodule "RaspberryPi"]
+	path = RaspberryPi
+	url = https://github.com/binerry/RaspberryPi
+[submodule "pcd8544-sys/RaspberryPi"]
+	path = pcd8544-sys/RaspberryPi
+	url = https://github.com/binerry/RaspberryPi.git

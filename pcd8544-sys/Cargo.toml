@@ -1,0 +1,12 @@
+[package]
+name = "pcd8544_sys"
+version = "0.1.0"
+build = "build.rs"
+links = "pcd8544"
+authors = ["Andrew Bass <andybass009@gmail.com>"]
+
+[dependencies]
+libc = "*"
+
+[build-dependencies]
+gcc = "*"
